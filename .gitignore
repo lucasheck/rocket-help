@@ -114,3 +114,9 @@ web-build/
 dist/
 
 # @end expo-cli
+
+#files
+eas.json
+google-services.json
+GoogleService-Info.plist
+yarn.lock
